@@ -1,23 +1,3 @@
-/**********************************************************************
- *       Multi-line Asynchronous Answering Phone Demo Program        *
- *********************************************************************
- *                                                                   *
- *    CCCC   BBBBB     AA    N    N   SSSS   RRRRR   x   x      H  H *
- *   C    C  B    B   A  A   NN   N  S       R    R   x x       H  H *
- *   C       BBBBB   A    A  N N  N   SSSS   R    R    x        H  H *
- *   C       B    B  AAAAAA  N  N N       S  RRRRR     x   ...  HHHH *
- *   C    C  B    B  A    A  N   NN  S    S  R   R    x x  ...  H  H *
- *    CCCC   BBBBB   A    A  N    N   SSSS   R    R  x   x ...  H  H *
- *                                                                   *
- *********************************************************************
- *  Copyright (c) 1992-96 by Dialogic Corp.  All Rights Reserved     *
- *********************************************************************
- *  DESCRIPTION:  This file contains the function prototypes for     *
- *   procedures used by the dialogic call back handler thread.       *
- *********************************************************************/
-
-
-
 /**
  ** Definitions
  **/
