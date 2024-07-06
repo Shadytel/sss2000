@@ -1,23 +1,3 @@
-/*********************************************************************
- *       Multi-line Asynchronous Answering Phone Demo Program        *
- *********************************************************************
- *                                                                   *
- *   DCCCC   IIIIII   SSSSS  PPPPP   X   X      H    H               *    
- *   D    D    II    S       P    P  X   X      H    H               *
- *   D    D    II    S       P    P   XXX       HHHHHH               *
- *   D    D    II    SSSSS   PPPPP    XXX   ... H    H               *
- *   D    D    II         S  P       X   X  ... H    H               *
- *   DDDDD   IIIIII  SSSSS   P       X   X  ... H    H               *
- *                                                                   *
- *********************************************************************
- *  Copyright (c) 1997 by Dialogic Corp.  All Rights Reserved        *
- *********************************************************************
- *  DESCRIPTION:  This file contains the function prototypes for     *
- *   procedures used to display text to the client area of main      *
- *   window.                                                         *
- *********************************************************************/
-
-
 /**********************************************************************
  *        NAME: disp_status(chnum, stringp)
  *      INPUTS: chno - channel number (1 - 30)
